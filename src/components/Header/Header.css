@@ -1,31 +1,28 @@
-.header {
-    float: right;
-}
-
 .header img {
     height: 80px;
 }
 
 .siteLogo {
-    margin-right: 300px;
-    float: left;
+    text-align: center;
 }
-
-.header nav {
+.nav-item{
+    background: black;
+    padding: 30px;
     margin-top: 10px;
+}
+ nav {
     font-size: 26px;
-    float: right;
+    float: left;
+    margin-top: -18px;
 }
 
 nav a {
     text-decoration: none;
     margin-left: 30px;
-    color: white;
-    background: black;
-    padding: 6px;
-    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    padding: 5px;
 }
 
 nav a:hover {
-    background: #FF9800;
+    background: grey;
 }
