@@ -7,13 +7,13 @@
 }
 .nav-item{
     background: black;
-    padding: 30px;
+    padding: 20px;
     margin-top: 10px;
 }
  nav {
-    font-size: 26px;
+    font-size: 20px;
     float: left;
-    margin-top: -18px;
+    margin-top: -15px;
 }
 
 nav a {
